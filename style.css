@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+.cerceve{width:1000px; margin:0px auto; }
+.banner{width:1000px; height:490px; 
+		margin:0px 0px 10px 0px; 
+		background-color:#3CF; }
+		
+.menu{width:1000px; height:23px; padding-top:5px; margin-bottom:10px;
+	  background-color:#39F;}
+	  
+.sol{
+	width: 690px;
+	margin: 0px 10px 0px 0px;
+	background-color: #960;
+	float: left;
+}
+.sag{width:300px; background-color:#960;
+	float:left;}
+.temizle{clear:both;}
+.footer{width:1000px; height:250px;
+		margin:10px 0px 0px 0px;
+		background-color:#F778A1;
+		}
+		
+.icerik {
+	background-color: #3C9;
+
+
+
+
+
+
+
+		 width:%100; 							margin: 0px 0px 10px 0px;
+	padding: 10px;
+}
+		 
+.alt_cerceve {width:700px; height:230px; 
+			  background-color:#6CC;
+			  margin:0px auto;
+			  padding:20px 0px 0px 0px;}  		 
+.alt_icerik {width:130px; height:130px;
+				background-color:#669;
+				margin:0px 10px 0px 0px;
+				float:left;}
+.yazi1 {text-align:center; font-size:36px;
+		color:#000; margin:0px auto; 
+		margin:10px 0px 0px 0px;}
+		
+.menum { list-style-type:none; margin:0px; padding:0px; height:20px;}
+.menum li { display:inline;}
+.menum a { text-decoration:none; padding:5px 37px; background-color:#39F; color:#000;}
+.menum a:hover { background-color:#960; color:#FFF;}
+
+.sol h1 { margin-left:10px;
+		}
+.sol img{ float:left; margin:0px 10px 10px 0px;}
+body{background:linear-gradient(#F4A460,#FFFFE0);	}
+
+
+
+.icerik li {
+	list-style-type: none;
+	font-weight: normal;
+}
+.icerik a { text-decoration:none;}
+.icerik a:hover { color:#000; size:18px; font-weight:bold;} 
+
+
+.icerik table {border:3px;  border-style:solid;
+border-collapse:collapse;   border-color:#C00; background-color:#ACE6F7;}
+ 
+.icerik tr{border-style:dotted; border:5px; border-color:#F00;
+border-collapse:collapse;}
+
+.sabit1 {position:fixed; height:600px; width:160px; top:0px; margin-left:-161px;}
+.sabit2 {position:fixed; height:600px; width:160px; top:0px; margin-left:1002px;}
+
+.cerceve .sol .icerik p marquee {
+	text-align: center;}
+
+
+ 
+.menu ul li ul{
+  position:absolute;
+  left:-9000em;
+}
+ 
+.menu ul li:hover ul{
+  left:0;
+}
+ 
